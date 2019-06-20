@@ -10,4 +10,5 @@ Highlights:
 3. The data is bound to variables which contain an array of foods for each category in the app component.
 4. The main (middle section of page) component uses this data by creating aliases (Input variables).
 5. Angular material tabs are used to separate the food categories.
+6. Formatted for specifically for mobile (Samsung Galaxy S5 in portrait and landscape).
 
