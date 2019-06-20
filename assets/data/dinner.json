@@ -1,0 +1,21 @@
+{
+	"dinner": [{
+			"name": "Butter Chicken",
+			"price": 15.49,
+			"calories": 438,
+			"image": "./assets/images/butterchicken.jpg"
+		},
+		{
+			"name": "Pizza",
+			"price": 19.99,
+			"calories": 325,
+			"image": "./assets/images/pizza.jpg"
+		},
+		{
+			"name": "Spaghetti",
+			"price": 13.79,
+			"calories": 650,
+			"image": "./assets/images/spaghetti.jpg"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"breakfast": [{
+			"name": "Pancakes",
+			"price": 9.99,
+			"calories": 227,
+			"image": "./assets/images/pancakes.jpg"
+		},
+		{
+			"name": "French Toast",
+			"price": 11.99,
+			"calories": 229,
+			"image": "./assets/images/frenchtoast.jpg"
+		},
+		{
+			"name": "Eggs Benedict",
+			"price": 18.99,
+			"calories": 553,
+			"image": "./assets/images/eggsben.jpg"
+		}
+	]
+}
